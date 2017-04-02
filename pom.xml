@@ -24,6 +24,5 @@
   		<url>http://ec2-54-245-195-233.us-west-2.compute.amazonaws.com:8081/repository/mavem_murali2/</url>
   		<name>myprod</name>
          </repository>
-
 </distributionManagement>
 </project>
