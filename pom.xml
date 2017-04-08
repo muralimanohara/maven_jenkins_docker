@@ -21,8 +21,8 @@
   <distributionManagement>
   	<repository>
   		<id>deploymentRepo</id>
-  		<url></url>
-  		<name>http://ec2-54-202-161-150.us-west-2.compute.amazonaws.com:8081/repository/mavem_murali2/myprod</name>
+  		<url>http://ec2-54-202-161-150.us-west-2.compute.amazonaws.com:8081/repository/mavem_murali2/myprod</url>
+  		<name>myprod</name>
          </repository>
 </distributionManagement>
 </project>
