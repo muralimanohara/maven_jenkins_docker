@@ -18,11 +18,11 @@
   <build>
     <finalName>CounterWebApp</finalName>
   </build>
-  <distributionManagement>
+ <!-- <distributionManagement>
   	<repository>
   		<id>deploymentRepo</id>
   		<url>http://ec2-54-187-122-236.us-west-2.compute.amazonaws.com:8081/repository/mavem_murali2/</url>
   		<name>myprod</name>
          </repository>
-</distributionManagement>
+</distributionManagement> --> <!-- commented to not to connect to nexus -->
 </project>
